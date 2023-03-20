@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<launch>
+<node pkg="turtlebot_demos" type="obstacle_detection.py" name="obstacle_detection" output="screen"></node>
+</launch>

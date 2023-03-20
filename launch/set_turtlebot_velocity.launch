@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<launch>
+
+<node pkg="turtlebot_demos" type="set_turtlebot_velocity.py" name="set_turtlebot_velocity" output="screen"></node>
+
+</launch>
+
